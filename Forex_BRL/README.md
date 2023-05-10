@@ -1,3 +1,5 @@
+# Análise para Prever a Força do Real em relação a outras moedas
+
 Este projeto, construído em linguagem R, tem como objetivo realizar previsões da força da moeda brasileira, o Real, em relação a outras moedas e em 
 relação ao preço dos comodities (como petróleo, trigo, etc...).
 
