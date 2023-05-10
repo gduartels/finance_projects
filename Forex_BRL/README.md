@@ -8,4 +8,4 @@ São 2 datasets de entrada. Um com a cotação de 5 moedas durante um período d
 O resultado final é a previsão da evolução do desempenho do Real em relação a outras moedas e isso é feito usando diferentes modelos preditivos e comparando 
 a performance de previsão desses modelos, conforme gráfico abaixo.
 
-![alt text](https://github.com/gduartels/finance_projects/Forex_BRL/images/forecasts.PNG "BRL")
+![alt text](https://github.com/gduartels/finance_projects/Forex_BRL/images/forecasts.png "BRL")
