@@ -1,11 +1,9 @@
-# Análise para Prever a Força do Real em relação a outras moedas
+# Analysis to Predict the Strength of the Brazilian Real Compared to Other Currencies
 
-Este projeto, construído em linguagem R, tem como objetivo realizar previsões da força da moeda brasileira, o Real, em relação a outras moedas e em relação 
-ao preço dos comodities (como petróleo, trigo, etc...).
+This project, built in the R language, aims to make predictions of the strength of the Brazilian currency, the Real, compared to other currencies and the price of commodities (such as oil, wheat, etc...).
 
-São 2 datasets de entrada. Um com a cotação de 5 moedas durante um período de tempo e outro com o preço dos comodities no mesmo período de tempo.
+There are two input datasets. One with the exchange rates of five currencies over a period of time, and another with the prices of commodities over the same period of time.
 
-O resultado final é a previsão da evolução do desempenho do Real em relação a outras moedas e isso é feito usando diferentes modelos preditivos e comparando 
-a performance de previsão desses modelos, conforme gráfico abaixo.
+The final result is the forecast of the evolution of the performance of the Real compared to other currencies, and this is done using different predictive models and comparing the prediction performance of these models, as shown in the graph below.
 
 ![alt text](https://github.com/gduartels/finance_projects/Forex_BRL/images/forecasts.png "BRL")
